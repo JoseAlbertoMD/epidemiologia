@@ -1,6 +1,7 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Epidemiología"
+subtitle: "Extremadamente fácil"
+author: "Jose Alberto Mendivil De la Ossa"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
