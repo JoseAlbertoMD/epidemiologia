@@ -1,8 +1,8 @@
 --- 
 title: "Epidemiología"
-subtitle: "Extremadamente fácil"
 author: "Jose Alberto Mendivil De la Ossa"
 date: "`r Sys.Date()`"
+subtitle: Extremadamente fácil
 site: bookdown::bookdown_site
 ---
 
